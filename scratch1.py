@@ -77,4 +77,4 @@ c=schuyler()
 c.replace_df()
 
 #i just want to test this VScode integration to my git-----
-#hmm lets see
+#deleted hmm lets see
